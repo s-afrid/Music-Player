@@ -1,4 +1,3 @@
-from tkinter import *
+import main_window
 
-main_window = Tk()
-main_window.mainloop()
+main_window.main()
